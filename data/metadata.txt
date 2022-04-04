@@ -1,0 +1,67 @@
+label	id	set	molecular	grade	idh_vf	tert_vf	ug_protein	cic_mutation	plex	Type
+126	PIS								1	PIS
+127N	OF27	set_1_1	I	III	39.8	46	215.2	Missense	1	Oligodendroglioma
+127C	GF9	set_1_2	III	IV		43	388.94		1	Glioblastoma
+128N	OF12	set_1_3	I	III	30.7	26	437.76	LOF	1	Oligodendroglioma
+128C	GF14	set_1_4	III	IV		28	1166.4		1	Glioblastoma
+129N	OF29	set_1_5	I	III	47.6	44	355.2	LOF	1	Oligodendroglioma
+129C	AF1	set_1_6	II	II	36.7		98.88		1	Astrocytoma
+130N	OF19	set_1_7	I	III	29	37	338.16	WT	1	Oligodendroglioma
+130C	AF18	set_1_8	II	II	35.8		116.58		1	Astrocytoma
+131N	Normal pool	set_1_9							1	Normal
+131C	SM+iD	set_1_10							1	Supermix
+126	PIS								2	PIS
+127N	OF7	set_2_1	I		33.6	39	433.06	WT	2	Oligodendroglioma
+127C	GF27	set_2_2	III	IV		38	295.26		2	Glioblastoma
+128N	OF2	set_2_3	I	III	40.9	38	776.2	LOF	2	Oligodendroglioma
+128C	GF1	set_2_4	III	IV		57	143.46		2	Glioblastoma
+129N	OF5	set_2_5	I	III	41.3	42	118.56	LOF	2	Oligodendroglioma
+129C	AF19	set_2_6	II	III	39.5		324.4		2	Astrocytoma
+130N	OF13	set_2_7	I	II	48.1	49	503.48	Missense	2	Oligodendroglioma
+130C	AF5	set_2_8	II	II	37.7		252.8		2	Astrocytoma
+131N	Normal pool	set_2_9							2	Normal
+131C	SM+iD	set_2_10							2	Supermix
+126	PIS								3	PIS
+127N	GF5	set_3_1	III	IV		43	624.8		3	Glioblastoma
+127C	OF6	set_3_2	I	III	40.8	46	167.36	Missense	3	Oligodendroglioma
+128N	GF10	set_3_3	III	IV		36	505.4		3	Glioblastoma
+128C	OF21	set_3_4	I	III	44	55	140.24	LOF	3	Oligodendroglioma
+129N	AF16	set_3_5	II	II	39.2		386.76		3	Astrocytoma
+129C	OF25	set_3_6	I	II	18	13	104.22	LOF	3	Oligodendroglioma
+130N	AF4	set_3_7	II	III	49.7		905		3	Astrocytoma
+130C	OF61	set_3_8	I		21		253	WT	3	Oligodendroglioma
+131N	Normal pool	set_3_9							3	Normal
+131C	SM+iD	set_3_10							3	Supermix
+126	PIS								4	PIS
+127N	AF17	set_4_1	II	II	15.8		111.68		4	Astrocytoma
+127C	GF26	set_4_2	III	IV		40	129.88		4	Glioblastoma
+128N	AF7	set_4_3	II	II	24.4		587.28		4	Astrocytoma
+128C	OF14	set_4_4	I	II	35.5	30	362.48	LOF	4	Oligodendroglioma
+129N	GF8	set_4_5	II	IV	56		338.2		4	Glioblastoma
+129C	OF10	set_4_6	I	II	22.2		520.3	Missense	4	Oligodendroglioma
+130N	GF11	set_4_7	II	IV	36.7		549.4		4	Glioblastoma
+130C	OF3	set_4_8	I	III	29.6	36	485.6	WT	4	Oligodendroglioma
+131N	Normal pool	set_4_9							4	Normal
+131C	SM+iD	set_4_10							4	Supermix
+126	PIS								5	PIS
+127N	AF13	set_5_1	II	II	61.8		216.2		5	Astrocytoma
+127C	OF60	set_5_2	I		37.4	34	485.2	LOF	5	Oligodendroglioma
+128N	AF2	set_5_3	II	III	60.8		88.14		5	Astrocytoma
+128C	OF20	set_5_4	I	II	35.7	40	106.52	LOF	5	Oligodendroglioma
+129N	GF15	set_5_5	II	IV	45.2		248.2		5	Glioblastoma
+129C	OF28	set_5_6	I	III	27.9	37	142.32	Missense	5	Oligodendroglioma
+130N	AF47	set_5_7	III			35	1588.8		5	Astrocytoma
+130C	GF20	set_5_8	III	IV			165		5	Glioblastoma
+131N	Normal pool	set_5_9							5	Normal
+131C	SM+iD	set_5_10							5	Supermix
+126	PIS								6	PIS
+127N	GF16	set_6_1	III	IV		33	205.6		6	Glioblastoma
+127C	GF13	set_6_2	II	IV	49.9		322.4		6	Glioblastoma
+128N	OF22	set_6_3	I	II	40.4	49	338.7	WT	6	Oligodendroglioma
+128C	AF6	set_6_4	II	III	36.2		817.8		6	Astrocytoma
+129N	OF16	set_6_5	I	II	38.6	45	170.92	LOF	6	Oligodendroglioma
+129C	AF48	set_6_6	II	III	44.2		855.4		6	Astrocytoma
+130N	OF26	set_6_7	I	III	41.3	45	183.7	Missense	6	Oligodendroglioma
+130C	AF3	set_6_8	II	II	32.5		93.98		6	Astrocytoma
+131N	Normal pool	set_6_9							6	Normal
+131C	SM+iD	set_6_10							6	Supermix
