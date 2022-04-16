@@ -106,14 +106,14 @@ alter_fun = list(
 
 ### Compile annotation layers
 top_annotation <- HeatmapAnnotation("Molecular Subtype" = data_type,
-                                    "Histology Subtype" = data_diag,
+                                    "Clinical Diagnosis" = data_diag,
                                     annotation_name_side = "left",
                                     annotation_name_gp = gpar(fontsize = 13),
                                     height = unit(1.5, "cm"),
                                     simple_anno_size = unit(0.5, "cm"),
                                     border = TRUE,
                                     annotation_name_rot = 0,
-                                    col = list("Molecular Subtype" = col_type, "Histology Subtype" = col_diag))
+                                    col = list("Molecular Subtype" = col_type, "Clinical Diagnosis" = col_diag))
 
 ### Set labels and legends
 heatmap_legend_param = list(title = "Alternations", 

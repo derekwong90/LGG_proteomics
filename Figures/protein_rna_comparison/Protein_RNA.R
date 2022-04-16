@@ -96,8 +96,8 @@ score_plot <- ggplot(comparison, aes(x = protein, y = expression)) +
   geom_smooth(method = "lm", se=FALSE, color="black", formula = y ~ x) + 
   stat_cor(aes(label=..rr.label..), label.x=0, label.y=0.95, size = 5) +
   facet_wrap(.~chromosome, scales = "fixed", nrow = 2) +
-  xlab("Protein Abundance") + 
-  ylab("mRNA Expression") +
+  xlab("Protein Expression (Relative Abundance)") + 
+  ylab("mRNA Expression (RSEM)") +
   labs(fill = "Chromosome") +
   #scale_fill_manual(values = c("red", "blue"), labels = c("1p", "19q")) +
   ggtitle("Protein vs mRNA Expression") + 
